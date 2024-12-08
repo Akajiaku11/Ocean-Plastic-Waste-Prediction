@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore database file (optional, if you want to regenerate it every time)
+energy_consumption.db
+
+# Ignore temporary and system files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive information
+.env
