@@ -34,3 +34,4 @@ This project predicts the density of plastic waste accumulation in oceans based 
    ```bash
    git clone <repository-url>
    cd <repository-folder>
+   https://github.com/Akajiaku11
